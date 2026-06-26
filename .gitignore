@@ -26,3 +26,13 @@ npm-debug.log*
 # Cache
 .cache/
 .parcel-cache/
+
+# LiteLLM proxy (not part of the landing page)
+run-proxy.ps1
+config.yaml
+
+# Project spec (internal, not for public)
+Oorty.md
+
+# Claude Code
+.claude/
