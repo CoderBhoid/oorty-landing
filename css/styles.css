@@ -54,6 +54,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
 }
 
 html {
@@ -1088,6 +1089,10 @@ p {
 }
 
 /* .active state managed by anime.js */
+.faq-item.active .faq-answer {
+    max-height: none;
+    padding-bottom: 22px;
+}
 
 .faq-answer p {
     font-size: 14px;
