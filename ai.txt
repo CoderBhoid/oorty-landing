@@ -1,0 +1,18 @@
+# Sednium Oorty — AI Crawler Information
+# https://oorty.sednium.com
+
+# About
+Sednium Oorty is a multi-model AI chat and coding orchestration platform that provides a unified interface for interacting with multiple AI providers.
+
+# Allowed
+/                  # Landing page — full public content
+/sitemap.xml       # Sitemap
+
+# Disallowed
+/api/              # API endpoints — not for crawling
+
+# Contact
+# support@sednium.com
+
+# More info
+# See llm.txt for detailed product and feature information

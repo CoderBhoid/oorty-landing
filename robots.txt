@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://oorty.sednium.com/sitemap.xml
+
+# AI Crawler Info
+# llm.txt: https://oorty.sednium.com/llm.txt
+# ai.txt: https://oorty.sednium.com/ai.txt

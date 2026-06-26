@@ -1,0 +1,68 @@
+# Sednium Oorty — https://oorty.sednium.com
+# LLM.txt: Machine-readable description for large language models and AI crawlers
+
+## About
+Sednium Oorty is a multi-model AI chat and coding orchestration platform. It provides a unified interface to interact with multiple AI providers, run local models, and orchestrate multi-agent workflows.
+
+## Publisher
+- Name: Sednium
+- Website: https://sednium.com
+- GitHub: https://github.com/CoderBhoid
+- Support: support@sednium.com
+
+## Product
+- Name: Sednium Oorty (also known as "Oorty")
+- URL: https://oorty.sednium.com
+- Type: Web application (AI chat and coding orchestration platform)
+- Price: Free to start (bring your own API keys)
+
+## Core Features
+1. Multi-Model Orchestration — Powered by the proprietary Sednium Rosette API for intelligent routing and combination of multiple AI models
+2. Multi-Provider Support — Connect to Google Gemini, OpenAI, Anthropic, xAI, Groq, OpenRouter, NVIDIA NIM, Ollama, and browser-native models
+3. Specialized Chat Modes — Quick Mode (speed), Thinking Mode (deep reasoning), Coding Mode (software architecture)
+4. Custom System Instructions — Fine-tune AI behavior on top of any Chat Mode
+5. Configuration Presets — Save and switch between provider + model + mode + instructions combinations
+6. Attachments & Context — Add files and images directly into chat context
+7. Chat History Management — Local storage with pinning, renaming, and deletion
+8. Local AI — Run open-source models via Ollama and LM Studio without internet
+9. Hugging Face Integration — Download, cache, and run models from the Hugging Face hub
+10. Privacy-First — API keys stored locally, never sent to Sednium servers
+
+## How It Works
+1. Users add their own API keys from supported providers
+2. Users select a chat mode (Quick, Thinking, or Coding)
+3. Users can add custom system instructions
+4. Users chat with AI models through a unified interface
+5. Conversations are processed directly through the chosen AI provider
+
+## Technology
+- Frontend: React with Tailwind CSS
+- AI Orchestration: Sednium Rosette API
+- Local AI: Ollama, LM Studio
+- Model Hub: Hugging Face
+
+## Pages
+- Landing Page: https://oorty.sednium.com/ (this page)
+- App: https://oorty.sednium.com (launch the application)
+
+## Crawl Rules
+- All page content is publicly accessible
+- API endpoints at /api/ are disallowed (see robots.txt)
+- Sitemap: https://oorty.sednium.com/sitemap.xml
+
+## Content Sections (Landing Page)
+- Hero: Platform introduction with key stats (8+ providers, 3+ chat modes, 100% free to start)
+- Providers: List of supported AI providers
+- Features: Six core feature descriptions
+- How It Works: Three-step onboarding flow
+- Chat Modes: Quick, Thinking, and Coding mode details
+- Local AI: Local model support and Hugging Face integration
+- Testimonials: User reviews
+- FAQ: Five frequently asked questions with answers
+- Contact: Email, GitHub, and support channels with contact form
+- CTA: Call to action to launch the application
+- Footer: Brand info, product links, resources, legal
+
+## Legal
+- Terms & Conditions: Available via modal on the landing page
+- Privacy Policy: Available via modal on the landing page
